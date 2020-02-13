@@ -1,0 +1,91 @@
+
+#body_look{
+    background-color: rgb(219, 243, 243);
+    margin: 2%;
+    margin-top: 1%;
+    padding:10%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;
+    color:#803a3a;
+    background-image: url(../images/cvback.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: initial;
+   
+    
+
+}
+#h1_look {
+    text-align: center;
+   
+}
+ #h2_look {
+        font-size: 1.2em;
+        text-transform: capitalize;
+        text-indent: 1%;    
+}
+
+#h3-look{
+	font-size:1.2em;
+    text-indent: 1%;
+    padding:0;
+    margin:0;
+    clear:both;
+}
+
+#h4-look{
+	padding:0;
+	margin:0;
+	clear:both;
+	font-size:1.2em;
+	color:#803a3a;
+	margin-bottom:-12px;
+}
+
+#h6-look{
+color: rgb(172, 182, 212);
+}
+#img_1 { width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      border-color: salmon;
+      border-style: double;     
+}
+
+#red_bg {background-color: blueviolet;}
+
+.round_edge { 
+    width: 100px;
+    height: 100px;
+}
+#h1-line{
+    border-bottom: 1px solid #cccbb9;
+    border-radius: 10px;
+    background-image: url("../images/tab_bg.jpg");
+    background-position-y: 50px;
+    height: 50px;
+    
+}
+.font-family{
+    font-family: 'Times New Roman', Times, serif;
+}
+.border-color{
+border-right: red;
+border-color:red;
+border-top: blue;
+border-bottom: white;
+border-left: black;
+font-size:1.2em;
+}
+#tg-field{
+    border-style: double;
+    border-radius: 7%;
+    border-color: salmon;
+    border-width: 10px;
+
+}
+
+hr{
+    border-style: dotted;
+}
